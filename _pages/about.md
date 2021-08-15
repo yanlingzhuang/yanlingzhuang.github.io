@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About"
+title: 
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+About me
+======
 I am currently a Ph.D. candidate in the School of Economics and Management at Dalian University of Technology, advised by Prof. Xiangpei Hu. Previously, I received my Bachelor’s degree in Information Management and Information Systems, and Computer Science and Technology from Dalian University of Technology in 2016.
 
 Research Interest
