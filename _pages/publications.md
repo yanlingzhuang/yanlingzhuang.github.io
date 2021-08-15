@@ -13,6 +13,6 @@ author_profile: true
 
 ## Talks and presentations
 
-1. Order Picking Optimization with Rack-Moving Mobile Robots and Multiple Workstations, The 2021 Canadian Operational Research Society (CORS) Conference (online), 2021.06.07-2021.06.10. (invited)
-2. Order Picking Optimization with Rack-Moving Mobile Robots and Multiple Workstations, The 2021 POMS 31st Annual Conference (online), 2021.04.30-2021.05.05. (invited)
+1. Order Picking Optimization with Rack-Moving Mobile Robots and Multiple Workstations, The 2021 Canadian Operational Research Society (CORS) Conference (online), Waterloo, Ontario, Canada, 2021.06.07-2021.06.10. (invited)
+2. Order Picking Optimization with Rack-Moving Mobile Robots and Multiple Workstations, The 2021 POMS 31st Annual Conference (online), Minneapolis, Minnesota, U.S.A., 2021.04.30-2021.05.05. (invited)
 3. Optimization of Mobile Robots Warehouse Fulfillment Systems, The 2020 Smart Freight Symposium (online), Toronto, Ontario, Canada, 2020.11.20 & 2020.11.27.
