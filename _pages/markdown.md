@@ -15,4 +15,3 @@ redirect_from:
 ## More About Me
 
 * My name is written as “庄燕玲” in Chinese (Mandarin).
-* 
