@@ -83,10 +83,10 @@ author:
   name             : "Yanling Zhuang"
   avatar           : "bio-photo.jpg"
   bio              : "Ph.D. candidate, School of Economics and Management, Dalian University of Technology"
-  location         : "Location"
+  location         : 
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : 
+  googlescholar    : "https://scholar.google.ca/citations?user=iXh0YgcAAAAJ&hl=en&oi=ao"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
