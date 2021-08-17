@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Ph.D. candidate in the School of Economics and Management at Dalian University of Technology, advised by Prof. Xiangpei Hu. Previously, I received my Bachelor’s degree in Information Management and Information Systems, and Computer Science and Technology, from Dalian University of Technology in 2016.
+I am currently a Ph.D. candidate in the School of Economics and Management at [Dalian University of Technology](https://en.dlut.edu.cn/), advised by Prof. Xiangpei Hu. Previously, I received my Bachelor’s degree in Information Management and Information Systems, and Computer Science and Technology, from Dalian University of Technology in 2016, and visited [McMaster University](https://www.mcmaster.ca/) for two years.
 
 Research Interest
 ======
