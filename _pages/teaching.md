@@ -14,3 +14,7 @@ author_profile: true
 
 1. Logistic Planning Department Intern at JD.com, Shenyang Distribution Centre, Summer 2018
 2. Warehouse Department Intern at JD.com, Dalian Distribution Centre, Summer 2017
+
+## Services and Associations
+
+* Member of INFORMS (The Institute for Operations Research and the Management Sciences)
