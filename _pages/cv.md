@@ -1,13 +1,11 @@
 ---
 layout: archive
-title: "Education"
+title: "Education Background"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
-
-## Education Background
 
 * **McMaster University (Mac)**, Hamilton, Canada &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 2019.09~2021.09
 
