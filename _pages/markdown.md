@@ -9,8 +9,9 @@ redirect_from:
 
 ## Honors and Awards
 
-* National Scholarship, The Ministry of Education of China, 2016
-* Outstanding College Student, Dalian University of Technology, 2014
+* Studying aboard scholarship (24 months), China Scholarship Council, 2019.05
+* National Scholarship, The Ministry of Education of China, 2016.10
+* Outstanding College Student, Dalian University of Technology, 2014.06
 
 ## More About Me
 
