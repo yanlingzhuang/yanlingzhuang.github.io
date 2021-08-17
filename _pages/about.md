@@ -12,4 +12,4 @@ I am currently a Ph.D. candidate in the School of Economics and Management at [D
 
 Research Interest
 ======
-My research interest is mainly about optimization with application in e-commerce and logistics management. Specifically, I’m focusing on developing data-driven solutions and integrating the operations research and artificial intelligence in decision making.
+My research interest is mainly about optimization with application in e-commerce and logistics management. Specifically, I’m focusing on developing data-driven solutions and integrating the operations research and artificial intelligence in decision making. I’m also interested in deep learning and reinforcement learning.
