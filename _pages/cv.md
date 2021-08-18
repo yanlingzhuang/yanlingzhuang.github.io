@@ -14,7 +14,7 @@ redirect_from:
   Doctoral student, majoring in Management Science and Engineering (E-commerce and Logistics)
  
 * **Dalian University of Technology (DUT)**, Dalian, China &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 2016.09~2018.06  
-  Master student,majoring in Management Science and Engineering  
+  Master student, majoring in Management Science and Engineering  
   *(was recommended for graduate study without examination)*
   
 * **Dalian University of Technology (DUT)**, Dalian, China &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 2012.09~2016.06  
