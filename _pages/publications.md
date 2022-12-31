@@ -7,7 +7,7 @@ author_profile: true
 
 ## Journal articles
 
-1. **Yanling Zhuang**, Yun Zhou, Elkafi Hassini, Yufei Yuan, Xiangpei Hu, Rack retrieval and repositioning optimization problem in robotic mobile fulfillment systems, Transportation Research Part E: Logistics and Transportation Review, 2022. ([link](https://authors.elsevier.com/c/1fyaO4sj-4sQOW))
+1. **Yanling Zhuang**, Yun Zhou, Elkafi Hassini, Yufei Yuan, Xiangpei Hu, Rack retrieval and repositioning optimization problem in robotic mobile fulfillment systems, Transportation Research Part E: Logistics and Transportation Review, 2022. ([link](https://doi.org/10.1016/j.tre.2022.102920))
 2. **Yanling Zhuang**, Yun Zhou, Yufei Yuan, Xiangpei Hu, Elkafi Hassini, Order Picking Optimization with Rack-Moving Mobile Robots and Multiple Workstations, European Journal of Operational Research, 2021. ([link](https://doi.org/10.1016/j.ejor.2021.08.003))
 3. Mengqi Yu, Yonggang Li, **Yanling Zhuang**, Xiangpei Hu, Integrated optimization model of the urgent order distribution and delivery problem of online pharmacy, Procedia computer science, 2018. ([link](https://doi.org/10.1016/j.procs.2018.08.067))
 
