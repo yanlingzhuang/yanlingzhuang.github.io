@@ -14,7 +14,7 @@ author_profile: true
 
 ## Talks and presentations
 
-1. 3.	Integrated rack retrieval and repositioning problem in robotic mobile fulfillment systems, The 2022 POMS 32st Annual Conference (online), 2022.04.21-2021.04.25. *(invited)*
+1. Integrated rack retrieval and repositioning problem in robotic mobile fulfillment systems, The 2022 POMS 32st Annual Conference (online), 2022.04.21-2022.04.25. *(invited)*
 2. Order Picking Optimization with Rack-Moving Mobile Robots and Multiple Workstations, The 2021 Canadian Operational Research Society (CORS) Conference (online), Waterloo, Ontario, Canada, 2021.06.07-2021.06.10. *(invited)*
 3. Order Picking Optimization with Rack-Moving Mobile Robots and Multiple Workstations, The 2021 POMS 31st Annual Conference (online), Minneapolis, Minnesota, U.S.A., 2021.04.30-2021.05.05. *(invited)*
 4. Optimization of Mobile Robots Warehouse Fulfillment Systems, The 2020 Smart Freight Symposium (online), Toronto, Ontario, Canada, 2020.11.20 & 2020.11.27.
