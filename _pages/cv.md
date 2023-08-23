@@ -10,7 +10,7 @@ redirect_from:
 * **McMaster University (Mac)**, Hamilton, Canada &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 2019.09~2021.09  
   Visiting Ph.D. student, DeGroote School of Business
   
-* **Dalian University of Technology (DUT)**, Dalian, China &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 2018.09~Now  
+* **Dalian University of Technology (DUT)**, Dalian, China &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 2018.09~2023.06  
   Doctoral student, majoring in Management Science and Engineering (E-commerce and Logistics)
  
 * **Dalian University of Technology (DUT)**, Dalian, China &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 2016.09~2018.06  
@@ -18,5 +18,4 @@ redirect_from:
   *(was recommended for graduate study without examination)*
   
 * **Dalian University of Technology (DUT)**, Dalian, China &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 2012.09~2016.06  
-  Bachelor's Degree in Information Management and Information Systems  
-  Bachelor's Degree in Computer Science and Technology
+  Bachelor's Degree in Information Management and Information Systems
