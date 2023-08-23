@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Ph.D. candidate in the School of Economics and Management at [Dalian University of Technology](https://en.dlut.edu.cn/), advised by Prof. Xiangpei Hu. Previously, I received my Bachelor’s degree in Information Management and Information Systems, and Computer Science and Technology, from Dalian University of Technology in 2016, and visited [McMaster University](https://www.mcmaster.ca/) for two years.
+I am a Ph.D. of Operations Research, and graduated from the School of Economics and Management, [Dalian University of Technology](https://en.dlut.edu.cn/) in 2023, advised by Prof. Xiangpei Hu. Previously, I received my Bachelor’s degree in Information Management and Information Systems from Dalian University of Technology in 2016, and visited DeGroote School of Business in [McMaster University](https://www.mcmaster.ca/) from Sept. 2019 to Sept. 2021 as a visiting Ph.D. student.
 
 Research Interest
 ======
-My research interest is mainly about optimization with application in e-commerce and logistics management. Specifically, I’m focusing on developing data-driven solutions and integrating the operations research and artificial intelligence in decision making. I’m also interested in deep learning and reinforcement learning.
+My research interests are mainly about optimization with application in e-commerce and logistics management, particularly the optimization of robotic mobile fulfillment systems.
