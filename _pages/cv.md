@@ -11,7 +11,7 @@ redirect_from:
   Visiting Ph.D. student, DeGroote School of Business
   
 * **Dalian University of Technology (DUT)**, Dalian, China &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 2018.09~2023.06  
-  Doctoral student, majoring in Management Science and Engineering (E-commerce and Logistics)
+  Doctoral student, majoring in Management Science and Engineering (E-commerce and Logistics Management)
  
 * **Dalian University of Technology (DUT)**, Dalian, China &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 2016.09~2018.06  
   Master student, majoring in Management Science and Engineering  
