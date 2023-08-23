@@ -17,7 +17,7 @@ author_profile: true
 
 ## Project experience
 
-Several research projects funded by National Natural Science Foundation of China (As core participants):
+Several research projects funded by National Natural Science Foundation of China:
 
 1. Information and Logistics Management under Emerging Electronic-Business (Prof. Xiangpei Hu, 2015.01-2020.12)
 2. Context-based Online Intelligent Optimization of Scheduling under Internet of Things (IoT) (Prof. Xiangpei Hu, 2016.01-2020.12)
@@ -25,3 +25,4 @@ Several research projects funded by National Natural Science Foundation of China
 ## Services and Associations
 
 * Member of INFORMS (The Institute for Operations Research and the Management Sciences)
+* Ad Hoc Reviewer for *European Journal of Operational Research*
