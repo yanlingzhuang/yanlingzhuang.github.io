@@ -12,4 +12,4 @@ I am a Ph.D. of Operations Research, and graduated from the School of Economics 
 
 Research Interest
 ======
-My research interests are mainly about optimization with application in e-commerce and logistics management, particularly the optimization of robotic mobile fulfillment systems.
+My research interests are mainly about optimization with application in e-commerce and logistics management, particularly the optimization for order picking systems.
