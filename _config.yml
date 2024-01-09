@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Yanling Zhuang / Homepage"
 title_separator          : "-"
 name                     : &name "Yanling Zhuang"
-description              : &description "Ph.D., Dalian University of Technology"
+description              : &description "Post-doctoral Fellow, McMaster University"
 url                      : https://yanlingzhuang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yanlingzhuang/yanlingzhuang.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Yanling Zhuang"
   avatar           : "profile-yanlingzhuang.png"
-  bio              : "Ph.D., School of Economics and Management, Dalian University of Technology"
+  bio              : "Post-doctoral Fellow, DeGroote School of Business, McMaster University"
   location         : 
   employer         :
   pubmed           : 
